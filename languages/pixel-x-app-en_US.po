@@ -1,0 +1,1524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixel X App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-26 13:18+0000\n"
+"PO-Revision-Date: 2024-02-26 13:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: pixel-x-app"
+
+#: functions/resources/integrations/settings.php:168
+#, php-format
+msgid ""
+"A integração personalizada, não é uma integração universal, ou seja, você "
+"precisa customizar como o webhook vai ser enviado para nosso sistema. <br>"
+"Siga a nossa documentação para realizar a integração, caso contrário será "
+"ignorado qualquer conteúdo enviado para a URL. <br><a href=\"%s\" "
+"target=\"_blank\">Documentação Integração Personalizada</a>"
+msgstr ""
+
+#: functions/resources/integrations/settings.php:33
+#: functions/resources/integrations/settings.php:59
+#: functions/resources/integrations/settings.php:85
+#: functions/resources/integrations/settings.php:110
+#: functions/resources/integrations/settings.php:157
+#: functions/resources/integrations/settings.php:187
+msgid "Abandono de Carrinho"
+msgstr "Cart Abandonment"
+
+#: functions/resources/event/metabox.php:20
+msgid "Acesso"
+msgstr "Access"
+
+#: functions/includes/05-dashboard.php:145
+msgid "Acessos por Cidade"
+msgstr "Accesses by City"
+
+#: functions/includes/05-dashboard.php:167
+msgid "Acessos por Dia"
+msgstr "Accesses per Day"
+
+#: functions/includes/05-dashboard.php:123
+msgid "Acessos por Estado"
+msgstr "Accesses by State"
+
+#: functions/includes/05-dashboard.php:189
+msgid "Acessos por Mês"
+msgstr "Accesses per Month"
+
+#: functions/includes/05-dashboard.php:101
+msgid "Acessos por País"
+msgstr "Accesses by Country"
+
+#: functions/trait/EventEnum.php:30
+msgid "AddPaymentInfo - Adicionar Informações de Pagamento"
+msgstr "AddPaymentInfo - Add Payment Information"
+
+#: functions/trait/EventEnum.php:29
+msgid "AddToCart - Adicionar ao Carrinho"
+msgstr "AddToCart - Add to Cart"
+
+#: functions/trait/EventEnum.php:28
+msgid "AddToWishlist - Adicionar a Lista de Desejo"
+msgstr "AddToWishlist - Add to Wish List"
+
+#: functions/resources/integrations/settings.php:141
+msgid ""
+"Adicione essa URL na sua conta Celetus para todos produtos produtos que "
+"deseja rastrear as vendas."
+msgstr ""
+"Add this URL to your Celetus account for all products you want to track "
+"sales."
+
+#: functions/resources/integrations/settings.php:69
+msgid ""
+"Adicione essa URL na sua conta Eduzz para todos produtos produtos que deseja "
+"rastrear as vendas."
+msgstr ""
+"Add this URL to your Eduzz account for all products you want to track sales."
+
+#: functions/resources/integrations/settings.php:43
+msgid ""
+"Adicione essa URL na sua conta Hotmart para todos produtos produtos que "
+"deseja rastrear as vendas."
+msgstr ""
+"Add this URL to your Hotmart account for all products you want to track "
+"sales."
+
+#: functions/resources/integrations/settings.php:94
+msgid ""
+"Adicione essa URL na sua conta Kiwify para todos os produtos que deseja "
+"rastrear as vendas."
+msgstr ""
+"Add this URL to your Kiwify account for all products you want to track sales."
+
+#: functions/resources/integrations/settings.php:17
+msgid ""
+"Adicione essa URL na sua conta Ticto para cada produto que deseja rastrear "
+"as vendas."
+msgstr ""
+"Add this URL to your Ticto account for each product you want to track sales."
+
+#: functions/resources/integrations/settings.php:173
+msgid ""
+"Adicione essa URL para integrações personalizadas com plataformas que não "
+"temos integração nativa."
+msgstr ""
+"Add this URL for custom integrations with platforms we don't have native "
+"integration for."
+
+#: functions/resources/integrations/settings.php:36
+#: functions/resources/integrations/settings.php:87
+#: functions/resources/integrations/settings.php:111
+#: functions/resources/integrations/settings.php:160
+#: functions/resources/integrations/settings.php:189
+msgid "Aguardando Pagamento"
+msgstr "Awaiting payment"
+
+#: functions/includes/04-settings.php:151
+msgid ""
+"Ao ativar, o campo de telefone será preenchido com o valor validado, após "
+"validação."
+msgstr ""
+"When activated, the telephone field will be filled with the validated value, "
+"after validation."
+
+#: functions/includes/04-settings.php:134
+msgid ""
+"Ao ativar, o campo de telefone será validador e formatado após o lead "
+"informar o telefone."
+msgstr ""
+"When activated, the phone number field will be validated and formatted after "
+"the lead enters the phone number."
+
+#: functions/includes/04-settings.php:271
+msgid "Apagar Todas as Conversões"
+msgstr "Delete All Conversions"
+
+#: functions/includes/04-settings.php:253
+msgid "Apagar Todos os Eventos"
+msgstr "Delete All Events"
+
+#: functions/includes/04-settings.php:262
+msgid "Apagar Todos os Leads"
+msgstr "Delete All Leads"
+
+#: functions/includes/04-settings.php:275
+msgid "Apague todas as conversões cadastrados."
+msgstr "Delete all registered conversions."
+
+#: functions/includes/04-settings.php:257
+msgid "Apague todos os eventos cadastrados."
+msgstr "Delete all registered events."
+
+#: functions/includes/04-settings.php:266
+msgid "Apague todos os leads cadastrados."
+msgstr "Delete all registered leads."
+
+#: functions/resources/lead/metabox.php:33
+msgid ""
+"As informações de endereço são salvas e atualizadas sempre a partir da "
+"última interação."
+msgstr ""
+"Address information is always saved and updated from the last interaction."
+
+#: functions/includes/05-dashboard.php:20
+msgid ""
+"Assista ao vídeo ao lado agora, e aprenda como começar a usar o plugin agora "
+"mesmo."
+msgstr ""
+"Watch the video below now, and learn how to start using the plugin right now."
+
+#: functions/includes/05-dashboard.php:28
+msgid "Assista aos Tutoriais"
+msgstr "Watch the Tutorials"
+
+#: functions/includes/00-install.php:78
+msgid "Ativar Licença"
+msgstr "Activate License"
+
+#: functions/includes/01-head-footer.php:105
+msgid "Ativar Licença do Pixel X App"
+msgstr "Activate Pixel X App License"
+
+#: functions/includes/04-settings.php:161
+msgid "Ativar Mascará de Telefone?"
+msgstr "Activate Phone Masking?"
+
+#: functions/includes/04-settings.php:37
+msgid "Ativar Teste de Marcação?"
+msgstr "Enable Markup Test?"
+
+#: functions/includes/05-dashboard.php:41
+msgid "Ative sua licença agora para liberar os recursos do plugin"
+msgstr "Activate your license now to unlock plugin features"
+
+#: functions/includes/04-license.php:45 functions/trait/Helpers.php:86
+msgid "Ativo"
+msgstr "Active"
+
+#: functions/resources/conversion/post-type.php:14
+msgid "Atualizar Conversão"
+msgstr "Update Conversion"
+
+#: functions/resources/event/post-type.php:14
+msgid "Atualizar Evento"
+msgstr "Update Event"
+
+#: functions/resources/lead/post-type.php:14
+msgid "Atualizar Lead"
+msgstr "Update Lead"
+
+#: functions/includes/01-head-footer.php:136
+#: functions/includes/01-head-footer.php:144
+#: functions/includes/01-head-footer.php:152
+msgid "Aviso de Incompatibilidade!"
+msgstr "Incompatibility Warning!"
+
+#: functions/resources/integrations/settings.php:60
+#: functions/resources/integrations/settings.php:86
+#: functions/resources/integrations/settings.php:188
+msgid "Boleto / Pix Gerado"
+msgstr "Bill / Generated Pix"
+
+#: functions/resources/integrations/settings.php:34
+#: functions/resources/integrations/settings.php:158
+msgid "Boleto Gerado"
+msgstr "Generated Slip"
+
+#: functions/resources/conversion/post-type.php:17
+msgid "Buscar Conversão"
+msgstr "Search Conversion"
+
+#: functions/resources/event/post-type.php:17
+msgid "Buscar Evento"
+msgstr "Search Event"
+
+#: functions/resources/lead/post-type.php:17
+msgid "Buscar Lead"
+msgstr "Search Lead"
+
+#: functions/includes/04-settings.php:131
+msgid "Campo de Telefone"
+msgstr "Telephone Field"
+
+#: functions/resources/conversion/metabox.php:14
+#: functions/resources/conversion/post-type.php:114
+msgid "Carregar em"
+msgstr "Upload"
+
+#: functions/includes/04-settings.php:201
+msgid ""
+"Caso não queira que os admins do site e editores auxilirem sejam rastreados "
+"ao acessarem e editarem elementos do site."
+msgstr ""
+"If you do not want site admins and supporting editors to be tracked when "
+"they access and edit site elements."
+
+#: functions/includes/04-settings.php:211
+msgid ""
+"Caso queira que os eventos sejam enviados pela API de Conversão "
+"imediatamente, ative esse recurso."
+msgstr ""
+"If you want events to be sent via the Conversion API immediately, enable "
+"this feature."
+
+#: functions/resources/integrations/settings.php:139
+msgid "Celetus"
+msgstr "Celetus"
+
+#: functions/trait/Helpers.php:367 functions/trait/Helpers.php:417
+#: functions/resources/lead/metabox.php:56
+#: functions/resources/event/metabox.php:41
+msgid "Cidade"
+msgstr "City"
+
+#: functions/includes/04-settings.php:96
+msgid "Clarity"
+msgstr "Clarity"
+
+#: functions/resources/conversion/metabox.php:57
+msgid "Classe CSS"
+msgstr "CSS Class"
+
+#: functions/resources/conversion/post-type.php:154
+msgid "Classe CSS: "
+msgstr "CSS Class:"
+
+#: functions/trait/TriggerEnum.php:21
+msgid "Clique no Botão / Elemento"
+msgstr "Click on Button/Element"
+
+#: functions/includes/04-settings.php:83
+msgid "Cole o código completo fornecido pelo Facebook."
+msgstr "Paste the complete code provided by Facebook."
+
+#: functions/includes/04-settings.php:240
+msgid "Comandos"
+msgstr "Commands"
+
+#: functions/includes/04-settings.php:239
+msgid "Comandos / Importação"
+msgstr "Commands / Import"
+
+#: functions/includes/05-dashboard.php:24
+msgid "Comece por aqui"
+msgstr "Start here"
+
+#: functions/includes/05-dashboard.php:47
+msgid "Como otimizar seu funil de vendas com conversões personalizadas"
+msgstr "How to Optimize Your Sales Funnel with Personalized Conversions"
+
+#: functions/resources/integrations/settings.php:166
+msgid "Como Utilizar a Integração Personalizada?"
+msgstr "How to Use Custom Integration?"
+
+#: functions/trait/Helpers.php:366 functions/resources/lead/metabox.php:52
+msgid "Complemento"
+msgstr "Complement"
+
+#: functions/trait/EventEnum.php:36
+msgid "CompleteRegistration - Cadastro Completo"
+msgstr "CompleteRegistration - Complete Registration"
+
+#: functions/resources/integrations/settings.php:38
+#: functions/resources/integrations/settings.php:61
+#: functions/resources/integrations/settings.php:89
+#: functions/resources/integrations/settings.php:112
+#: functions/resources/integrations/settings.php:161
+#: functions/resources/integrations/settings.php:190
+msgid "Compra Aprovada"
+msgstr "Purchase Approved"
+
+#: functions/resources/integrations/settings.php:162
+#: functions/resources/integrations/settings.php:191
+msgid "Compra Completa"
+msgstr "Purchase complete"
+
+#: functions/includes/01-head-footer.php:118
+msgid "Configurar meu Pixel"
+msgstr "Configure my Pixel"
+
+#: functions/includes/00-install.php:76 functions/includes/04-settings.php:14
+#: functions/resources/conversion/metabox.php:7
+msgid "Configurações"
+msgstr "settings"
+
+#: functions/includes/04-settings.php:185
+msgid "Configurações Avançadas"
+msgstr "Advanced Settings"
+
+#: functions/resources/conversion/metabox.php:144
+msgid "Configurações do  Produto"
+msgstr "Product Settings"
+
+#: functions/resources/conversion/metabox.php:95
+msgid "Configurações do Evento"
+msgstr "Event Settings"
+
+#: functions/resources/conversion/metabox.php:34
+msgid "Configurações do Gatilho"
+msgstr "Trigger Settings"
+
+#: functions/trait/Components.php:66
+msgid "Confirmar"
+msgstr "Confirm"
+
+#: functions/trait/EventEnum.php:35
+msgid "Contact - Entrar em contato"
+msgstr "Contact - Get in touch"
+
+#: functions/resources/event/metabox.php:53
+msgid "Conteúdo"
+msgstr "Content"
+
+#: functions/includes/01-head-footer.php:15
+msgid "Conteúdo Copiado com Sucesso!"
+msgstr "Content Copied Successfully!"
+
+#: functions/resources/conversion/post-type.php:8
+#: functions/resources/conversion/post-type.php:22
+#: functions/resources/conversion/post-type.php:113
+msgid "Conversão"
+msgstr "Conversion"
+
+#: functions/resources/conversion/post-type.php:7
+#: functions/resources/conversion/post-type.php:9
+msgid "Conversões"
+msgstr "Conversions"
+
+#: functions/includes/01-head-footer.php:126
+msgid "Conversões Importadas com Sucesso!"
+msgstr "Successfully Imported Conversions!"
+
+#: functions/resources/event/metabox.php:159
+msgid "Corpo de Requisição"
+msgstr "Request Body"
+
+#: functions/includes/04-settings.php:42
+msgid "Código de Teste"
+msgstr "Test Code"
+
+#: functions/trait/Helpers.php:371 functions/trait/Helpers.php:415
+#: functions/resources/lead/metabox.php:72
+#: functions/resources/event/metabox.php:33
+msgid "Código do País"
+msgstr "Country code"
+
+#: functions/trait/Helpers.php:369 functions/trait/Helpers.php:419
+#: functions/resources/lead/metabox.php:64
+#: functions/resources/event/metabox.php:49
+msgid "Código Postal"
+msgstr "Postal Code"
+
+#: functions/resources/conversion/post-type.php:198
+msgid "Cópia de: "
+msgstr "Copy of:"
+
+#: functions/trait/Helpers.php:432 functions/resources/event/metabox.php:103
+msgid "Data e Hora"
+msgstr "Date and time"
+
+#: functions/includes/04-settings.php:138
+msgid "DDI do País de Telefone"
+msgstr "Telephone Country ID"
+
+#: functions/includes/04-settings.php:172
+msgid ""
+"Defina a mascará utilizando \"0\" como variável que o lead precisa preencher."
+" O que estiver entre \"{}\" são valores absolutos e entre \"[]\" são valores "
+"opcionais. Exemplo: <span data-clipboard-text=\"+{55} (00) [9]0000-0000\">"
+"+{55} (00) [9]0000-0000</span>"
+msgstr ""
+
+#: functions/includes/04-settings.php:127
+#: functions/resources/conversion/metabox.php:171
+msgid ""
+"Defina o código da moeda do produto conforme ISO 4217.<br><a href=\"https:"
+"//pt.wikipedia.org/wiki/ISO_4217\" target=\"_blank\">Listagem de Moeda</a>"
+msgstr ""
+
+#: functions/resources/conversion/metabox.php:58
+msgid ""
+"Defina o nome da classe CSS a inserir nos elementos, com letras minúsculas, "
+"hífen e underline. Evite o uso de números."
+msgstr ""
+"Define the name of the CSS class to be inserted into the elements, with "
+"lowercase letters, hyphen and underscore. Avoid using numbers."
+
+#: functions/resources/conversion/metabox.php:104
+msgid ""
+"Defina o nome do conteúdo personalizado, senão, será definido o nome do "
+"produto."
+msgstr "Set the custom content name, otherwise the product name will be set."
+
+#: functions/resources/conversion/metabox.php:112
+msgid "Defina o nome do evento personalizado."
+msgstr "Set the custom event name."
+
+#: functions/resources/conversion/metabox.php:84
+msgid "Defina o percentual da rolagem da página."
+msgstr "Set the page scroll percentage."
+
+#: functions/resources/conversion/metabox.php:43
+msgid "Defina o tempo em segundos."
+msgstr "Set the time in seconds."
+
+#: functions/includes/05-dashboard.php:25
+msgid "Depois, siga as recomendações ao lado."
+msgstr "Then, follow the recommendations below."
+
+#: functions/resources/integrations/settings.php:31
+#: functions/resources/integrations/settings.php:57
+#: functions/resources/integrations/settings.php:83
+#: functions/resources/integrations/settings.php:108
+#: functions/resources/integrations/settings.php:155
+#: functions/resources/integrations/settings.php:185
+msgid "Desativar Integração para os Status"
+msgstr "Disable Integration for Statuses"
+
+#: functions/includes/04-settings.php:200
+msgid "Desativar Rastreamento de Usuário Logados"
+msgstr "Disable Logged In User Tracking"
+
+#: functions/includes/01-head-footer.php:145
+msgid ""
+"Desative o plugin <b>Pixel Cat</b> para evitar erros de rastreamento, por "
+"incompatibilidade entre os plugins."
+msgstr ""
+
+#: functions/includes/01-head-footer.php:153
+msgid ""
+"Desative o plugin <b>Pixel Tag Manager for WooCommerce </b> para evitar "
+"erros de rastreamento, por incompatibilidade entre os plugins."
+msgstr ""
+
+#: functions/includes/01-head-footer.php:137
+msgid ""
+"Desative o plugin <b>Pixel Your Site</b> para evitar erros de rastreamento, "
+"por incompatibilidade entre os plugins."
+msgstr ""
+
+#: pixel-x-app.php:59
+msgid ""
+"Desculpe, mas este plugin requer a versão do PHP 8.0 ou superior.<br>Entre "
+"em contato com o suporte da hospedagem para atualizar a versão do PHP do seu "
+"site."
+msgstr ""
+
+#: functions/includes/04-settings.php:273
+msgid "Deseja mesmo apagar todos os registros de Conversões?"
+msgstr "Do you really want to delete all Conversion records?"
+
+#: functions/includes/04-settings.php:255
+msgid "Deseja mesmo apagar todos os registros de Eventos?"
+msgstr "Do you really want to delete all Event records?"
+
+#: functions/includes/04-settings.php:264
+msgid "Deseja mesmo apagar todos os registros de Leads?"
+msgstr "Do you really want to delete all Lead records?"
+
+#: functions/trait/Helpers.php:428 functions/resources/event/metabox.php:87
+msgid "Dia da Semana"
+msgstr "Day of the week"
+
+#: functions/trait/Helpers.php:429 functions/resources/event/metabox.php:91
+msgid "Dia do Mês"
+msgstr "Day of month"
+
+#: functions/trait/Helpers.php:363 functions/trait/Helpers.php:413
+#: functions/resources/lead/metabox.php:40
+#: functions/resources/event/metabox.php:25
+msgid "Dispositivo"
+msgstr "Device"
+
+#: functions/includes/00-install.php:81
+msgid "Documentação"
+msgstr "Documentation"
+
+#: functions/resources/lead/metabox.php:26
+msgid "Documento"
+msgstr "Document"
+
+#: functions/includes/03-routes.php:160
+msgid "Domínio Não Autorizado"
+msgstr "Unauthorized Domain"
+
+#: functions/resources/conversion/post-type.php:83
+#: functions/resources/conversion/post-type.php:96
+msgid "Duplicar"
+msgstr "Duplicate"
+
+#: functions/resources/conversion/post-type.php:13
+msgid "Editar Conversão"
+msgstr "Edit Conversion"
+
+#: functions/resources/event/post-type.php:13
+msgid "Editar Evento"
+msgstr "Edit Event"
+
+#: functions/resources/lead/post-type.php:13
+msgid "Editar Lead"
+msgstr "Edit Lead"
+
+#: functions/resources/integrations/settings.php:67
+msgid "Eduzz"
+msgstr "Eduzz"
+
+#: functions/includes/04-settings.php:78
+msgid ""
+"Em desenvolvimento as otimizações de rastreamento, atualmente apenas adição "
+"do pixel."
+msgstr ""
+"Tracking optimizations are under development, currently just adding the "
+"pixel."
+
+#: functions/includes/04-license.php:13 functions/trait/Helpers.php:360
+#: functions/resources/lead/metabox.php:19
+#: functions/resources/lead/post-type.php:74
+msgid "Email"
+msgstr "Email"
+
+#: functions/trait/Helpers.php:364 functions/resources/lead/metabox.php:32
+#: functions/resources/lead/metabox.php:44
+msgid "Endereço"
+msgstr "Address"
+
+#: functions/includes/04-settings.php:245
+msgid "Enviar Eventos por API"
+msgstr "Send Events via API"
+
+#: functions/includes/04-settings.php:248
+msgid "Envie os eventos pelo servidor por API de Conversão manualmente."
+msgstr "Send events to the server via Conversion API manually."
+
+#: functions/includes/04-settings.php:208
+msgid "Envio de API de Conversão Imediato"
+msgstr "Immediate Conversion API Submission"
+
+#: functions/resources/conversion/post-type.php:146
+#, php-format
+msgid "Esperar por %s segundos"
+msgstr "Wait for %s seconds"
+
+#: functions/includes/04-settings.php:39
+msgid ""
+"Esse recurso deve ser ativado temporariamente apenas, desativar após "
+"finalizar os testes."
+msgstr ""
+"This feature should only be activated temporarily, deactivated after testing "
+"is complete."
+
+#: functions/trait/Helpers.php:368 functions/trait/Helpers.php:416
+#: functions/resources/lead/metabox.php:60
+#: functions/resources/event/metabox.php:37
+msgid "Estado"
+msgstr "state"
+
+#: functions/resources/conversion/metabox.php:98
+#: functions/resources/conversion/post-type.php:117
+#: functions/resources/event/metabox.php:82
+#: functions/resources/event/post-type.php:8
+#: functions/resources/event/post-type.php:22
+#: functions/resources/event/post-type.php:74
+msgid "Evento"
+msgstr "Event"
+
+#: functions/resources/integrations/eduzz.php:29
+#: functions/resources/integrations/custom.php:29
+#: functions/resources/integrations/ticto.php:29
+#: functions/resources/integrations/blitzpay.php:29
+#: functions/resources/integrations/kiwify.php:34
+#: functions/resources/integrations/celetus.php:29
+#: functions/resources/integrations/hotmart.php:35
+msgid "Evento Desativado para Integração"
+msgstr "Event Disabled for Integration"
+
+#: functions/trait/EventEnum.php:40
+#: functions/resources/conversion/metabox.php:111
+msgid "Evento Personalizado"
+msgstr "Custom Event"
+
+#: functions/trait/Components.php:150 functions/resources/lead/post-type.php:76
+#: functions/resources/event/post-type.php:7
+#: functions/resources/event/post-type.php:9
+msgid "Eventos"
+msgstr "Events"
+
+#: functions/resources/conversion/post-type.php:228
+msgid "Exportar Conversões"
+msgstr "Export Conversions"
+
+#: functions/resources/lead/post-type.php:123
+#: functions/resources/event/post-type.php:125
+msgid "Exportar em CSV"
+msgstr "Export to CSV"
+
+#: functions/includes/04-settings.php:19
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions/resources/event/metabox.php:158
+msgid "Facebook API"
+msgstr "Facebook API"
+
+#: functions/resources/event/metabox.php:149
+msgid "Facebook Cookies"
+msgstr "Facebook Cookies"
+
+#: functions/trait/Helpers.php:443 functions/resources/event/metabox.php:150
+msgid "FBC"
+msgstr "FBC"
+
+#: functions/trait/Helpers.php:444 functions/resources/event/metabox.php:154
+msgid "FBP"
+msgstr "FBP"
+
+#: functions/includes/04-settings.php:95
+msgid "Ferramentas"
+msgstr "Tools"
+
+#: functions/trait/Helpers.php:434 functions/resources/event/metabox.php:112
+msgid "Fonte de Tráfego"
+msgstr "Traffic Source"
+
+#: functions/resources/event/metabox.php:104
+msgid "Formato Timestamp"
+msgstr "Timestamp Format"
+
+#: functions/trait/TriggerEnum.php:20
+msgid "Formulário Enviado"
+msgstr "Form Submitted"
+
+#: functions/resources/conversion/metabox.php:31
+#: functions/resources/conversion/post-type.php:115
+msgid "Gatilho"
+msgstr "Kitten"
+
+#: functions/includes/04-settings.php:65
+msgid "Google"
+msgstr "Google"
+
+#: functions/includes/04-settings.php:77
+msgid "Google Ads"
+msgstr "Google Ads"
+
+#: functions/includes/04-settings.php:66
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: functions/includes/04-settings.php:70
+msgid "Google Tag Manager"
+msgstr "Google Tag Manager"
+
+#: functions/includes/04-settings.php:100
+msgid "Hotjar"
+msgstr "Hotjar"
+
+#: functions/resources/integrations/settings.php:41
+msgid "Hotmart"
+msgstr "Hotmart"
+
+#. Author URI of the plugin
+msgid "https://mosko.digital/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://pixelx.app/"
+msgstr ""
+
+#: functions/trait/Helpers.php:358 functions/trait/Helpers.php:411
+#: functions/resources/lead/metabox.php:11
+#: functions/resources/lead/post-type.php:72
+#: functions/resources/event/metabox.php:11
+#: functions/resources/event/post-type.php:73
+msgid "ID"
+msgstr "ID"
+
+#: functions/includes/04-settings.php:29
+msgid "ID do Pixel"
+msgstr "ID do Pixel"
+
+#: functions/includes/04-settings.php:111 functions/trait/Helpers.php:421
+#: functions/resources/conversion/metabox.php:152
+#: functions/resources/event/metabox.php:58
+msgid "ID do Produto"
+msgstr "Product ID"
+
+#: functions/includes/04-settings.php:122
+#: functions/resources/conversion/metabox.php:157
+msgid "IDs da Oferta"
+msgstr "Offer IDs"
+
+#: functions/trait/Helpers.php:423 functions/resources/event/metabox.php:66
+msgid "IDs das Ofertas"
+msgstr "Offer IDs"
+
+#: functions/includes/04-settings.php:278
+msgid "Importação"
+msgstr "Import"
+
+#: functions/includes/05-dashboard.php:108
+#: functions/includes/05-dashboard.php:130
+#: functions/includes/05-dashboard.php:152
+msgid "Indefinido"
+msgstr "Undefined"
+
+#: functions/resources/event/metabox.php:7
+msgid "Informações"
+msgstr "Information"
+
+#: functions/includes/04-settings.php:105
+msgid "Informações de Produto"
+msgstr "Product Information"
+
+#: functions/resources/lead/metabox.php:7
+msgid "Informações do Lead"
+msgstr "Lead Information"
+
+#: functions/includes/04-settings.php:112
+#: functions/resources/conversion/metabox.php:153
+msgid "Informe o ID do produto igual cadastrado na plataforma de pagamento."
+msgstr "Enter the ID of the same product registered on the payment platform."
+
+#: functions/includes/04-settings.php:108
+#: functions/resources/conversion/metabox.php:148
+msgid "Informe o nome do produto igual cadastrado na plataforma de pagamento."
+msgstr "Enter the name of the same product registered on the payment platform."
+
+#: functions/resources/integrations/settings.php:77
+#, php-format
+msgid ""
+"Informe o Origin Key do Webhook gerado pela Eduzz <a href=\"%s\" "
+"target=\"_blank\">aqui</a>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:149
+#, php-format
+msgid ""
+"Informe o Token do Webhook gerado pela Celetus <a href=\"%s\" "
+"target=\"_blank\">aqui</a>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:51
+#, php-format
+msgid ""
+"Informe o Token do Webhook gerado pela Hotmart <a href=\"%s\" "
+"target=\"_blank\">aqui</a>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:102
+#, php-format
+msgid ""
+"Informe o Token do Webhook gerado pela Kiwify <a href=\"%s\" "
+"target=\"_blank\">aqui</a>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:25
+#, php-format
+msgid ""
+"Informe o Token do Webhook gerado pela Ticto <a href=\"%s\" "
+"target=\"_blank\">aqui</a>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:180
+msgid "Informe o Token no corpo da requisição."
+msgstr "Enter the Token in the body of the request."
+
+#: functions/includes/04-settings.php:116
+#: functions/resources/conversion/metabox.php:163
+msgid "Informe o valor do produto ou oferta."
+msgstr "Enter the value of the product or offer."
+
+#: functions/resources/conversion/metabox.php:121
+msgid "Informe o valor previsto do Lifetime Value."
+msgstr "Enter the expected Lifetime Value."
+
+#: functions/trait/EventEnum.php:31
+msgid "InitiateCheckout - Iniciar Finalização da Compra"
+msgstr "InitiateCheckout - Initiate Checkout"
+
+#: functions/includes/04-settings.php:63
+msgid "Insira a tag HTML completa fornecido pelo Facebook nesse campo."
+msgstr "Enter the full HTML tag provided by Facebook in this field."
+
+#: functions/includes/04-settings.php:97
+msgid ""
+"Insira o ID do Projeto, você pode pegar o ID em Configurações > Visão Geral, "
+"no painel do <a href=\"https://clarity.microsoft.com/\" target=\"_blank\">"
+"Clarity</a>."
+msgstr ""
+
+#: functions/includes/04-settings.php:31
+msgid "Insira o ID do seu Pixel do Facebook nesse campo."
+msgstr "Enter your Facebook Pixel ID in this field."
+
+#: functions/includes/04-settings.php:101
+msgid ""
+"Insira o Site ID, você pode pegar o ID na Listagem de Sites, no painel do <a "
+"href=\"https://insights.hotjar.com/site/list\" target=\"_blank\">Hotjar</a>."
+msgstr ""
+
+#: functions/includes/04-settings.php:35
+msgid ""
+"Insira o Token da API de Conversão do seu Pixel do Facebook nesse campo."
+msgstr "Enter your Facebook Pixel's Conversion API Token in this field."
+
+#: functions/includes/04-license.php:14
+msgid "Insira seu email de compra."
+msgstr "Enter your purchase email."
+
+#: functions/includes/04-license.php:20
+msgid "Insira sua licença recebida por email, após a compra."
+msgstr "Enter your license received by email after purchase."
+
+#: functions/resources/integrations/settings.php:11
+msgid "Integrações"
+msgstr "Integrations"
+
+#: functions/trait/Helpers.php:431 functions/resources/event/metabox.php:99
+msgid "Intervalo de Hora"
+msgstr "Time Range"
+
+#: functions/includes/04-license.php:47
+msgid "Inválido"
+msgstr "Invalid"
+
+#: functions/trait/Helpers.php:362 functions/trait/Helpers.php:412
+#: functions/resources/lead/metabox.php:36
+#: functions/resources/event/metabox.php:21
+msgid "IP"
+msgstr "IP"
+
+#: functions/resources/integrations/settings.php:92
+msgid "Kiwify"
+msgstr "Kiwify"
+
+#: functions/resources/lead/post-type.php:8
+#: functions/resources/lead/post-type.php:22
+#: functions/resources/event/metabox.php:10
+#: functions/resources/event/metabox.php:16
+#: functions/resources/event/post-type.php:76
+msgid "Lead"
+msgstr "Lead"
+
+#: functions/trait/EventEnum.php:26
+msgid "Lead - Cadastro"
+msgstr "Lead - Registration"
+
+#: functions/resources/event/post-type.php:97
+msgid "Lead não identificado"
+msgstr "Unidentified lead"
+
+#: functions/resources/lead/post-type.php:7
+#: functions/resources/lead/post-type.php:9
+msgid "Leads"
+msgstr "Leads"
+
+#: functions/includes/04-license.php:7 functions/includes/04-license.php:19
+msgid "Licença"
+msgstr "License"
+
+#: functions/includes/04-settings.php:241
+msgid "Lista de comandos manuais, para execuções de manutenção."
+msgstr "List of manual commands for maintenance executions."
+
+#: functions/resources/conversion/metabox.php:120
+msgid "LTV Previsto"
+msgstr "Predicted LTV"
+
+#: functions/includes/04-settings.php:171
+msgid "Mascará de Telefone"
+msgstr "Telephone Mask"
+
+#: functions/includes/04-settings.php:126 functions/trait/Helpers.php:418
+#: functions/resources/conversion/metabox.php:170
+#: functions/resources/event/metabox.php:45
+msgid "Moeda"
+msgstr "Coin"
+
+#. Author of the plugin
+msgid "Mosko Digital"
+msgstr "Moscow Digital"
+
+#: functions/trait/Helpers.php:430 functions/resources/event/metabox.php:95
+msgid "Mês"
+msgstr "Month"
+
+#: functions/trait/Components.php:227
+msgid "Nenhum item foi encontrado."
+msgstr "No items were found."
+
+#: functions/trait/Helpers.php:359 functions/resources/lead/metabox.php:16
+#: functions/resources/lead/post-type.php:73
+msgid "Nome"
+msgstr "Name"
+
+#: functions/trait/Helpers.php:425
+#: functions/resources/conversion/metabox.php:103
+#: functions/resources/event/metabox.php:74
+msgid "Nome do Conteúdo"
+msgstr "Content Name"
+
+#: functions/trait/Helpers.php:427 functions/resources/event/metabox.php:83
+msgid "Nome do Evento"
+msgstr "Event Name"
+
+#: functions/includes/04-settings.php:107 functions/trait/Helpers.php:420
+#: functions/resources/conversion/metabox.php:147
+#: functions/resources/event/metabox.php:54
+msgid "Nome do Produto"
+msgstr "Product's name"
+
+#: functions/resources/conversion/post-type.php:10
+#: functions/resources/conversion/post-type.php:11
+#: functions/resources/conversion/post-type.php:12
+msgid "Nova Conversão"
+msgstr "New Conversion"
+
+#: functions/resources/event/post-type.php:10
+#: functions/resources/event/post-type.php:11
+#: functions/resources/event/post-type.php:12
+msgid "Novo Evento"
+msgstr "New Event"
+
+#: functions/resources/lead/post-type.php:10
+#: functions/resources/lead/post-type.php:11
+#: functions/resources/lead/post-type.php:12
+msgid "Novo Lead"
+msgstr "New Lead"
+
+#: functions/resources/lead/post-type.php:18
+#: functions/resources/conversion/post-type.php:18
+#: functions/resources/event/post-type.php:18
+msgid "Não encontrado"
+msgstr "Not found"
+
+#: functions/resources/lead/post-type.php:19
+#: functions/resources/conversion/post-type.php:19
+#: functions/resources/event/post-type.php:19
+msgid "Não encontrado na lixeira"
+msgstr "Not found in trash"
+
+#: functions/includes/04-settings.php:212
+msgid "Não recomendado para sites com grande quantidade de eventos.</b>"
+msgstr "Not recommended for sites with a large number of events."
+
+#: functions/trait/Helpers.php:365 functions/resources/lead/metabox.php:48
+msgid "Número"
+msgstr "Number"
+
+#: functions/resources/lead/metabox.php:14
+#: functions/resources/event/metabox.php:12
+msgid "O ID é gerado automaticamente, para identificação única."
+msgstr "The ID is automatically generated for unique identification."
+
+#. Description of the plugin
+msgid ""
+"O melhor sistema de otimização de rastreamento para anunciantes do Facebook "
+"Ads e Google Ads."
+msgstr ""
+"The best tracking optimization system for Facebook Ads and Google Ads "
+"advertisers."
+
+#: functions/resources/integrations/settings.php:75
+msgid "Origin Key"
+msgstr "Origin Key"
+
+#: functions/trait/EventEnum.php:25
+msgid "PageView - Visualização de Página"
+msgstr "PageView - Page View"
+
+#. Parent
+#: functions/includes/02-menu-screen.php:16
+#: functions/includes/02-menu-screen.php:17
+msgid "Painel de Controle"
+msgstr "Control Panel"
+
+#: functions/includes/04-settings.php:231
+#, php-format
+msgid ""
+"Para o rastreamento avançado em subdomínios e/ou em páginas HTML externas ao "
+"site, do mesmo domínio. <a href=\"%s\" target=\"_blank\">Saiba mais sobre "
+"Rastreamento Remoto</a>."
+msgstr ""
+
+#: functions/includes/01-head-footer.php:115
+msgid "Parabéns por Ativar o Pixel X App!"
+msgstr "Congratulations on Activating the Pixel X App!"
+
+#: functions/includes/01-head-footer.php:102
+msgid "Parabéns por Instalar o Pixel X App!"
+msgstr "Congratulations on Installing the Pixel X App!"
+
+#: functions/resources/event/metabox.php:116
+msgid "Parametros de Acesso"
+msgstr "Access Parameters"
+
+#: functions/includes/01-head-footer.php:103
+msgid ""
+"Parece que você ainda não ativou sua licença do plugin. Pronto para ativar?"
+msgstr ""
+"It looks like you haven't activated your plugin license yet. Ready to "
+"activate?"
+
+#: functions/trait/TriggerEnum.php:23
+msgid "Passagem de Mouse em Elemento"
+msgstr "Mouse Hover in Element"
+
+#: functions/includes/04-settings.php:204
+msgid "Passagem de Parâmetros da URL"
+msgstr "Passing URL Parameters"
+
+#: functions/trait/Helpers.php:370 functions/trait/Helpers.php:414
+#: functions/resources/lead/metabox.php:68
+#: functions/resources/event/metabox.php:29
+msgid "País"
+msgstr "Country"
+
+#: functions/includes/04-settings.php:162
+msgid ""
+"Permite definir uma mascará de preenchimento nos campos com classe CSS <span "
+"data-clipboard-text=\"pxa_mask_phone\">\".pxa_mask_phone\"</span>."
+msgstr ""
+
+#: functions/resources/integrations/settings.php:165
+msgid "Personalizado"
+msgstr "Custom"
+
+#: functions/resources/integrations/settings.php:37
+#: functions/resources/integrations/settings.php:88
+msgid "Período de Testes"
+msgstr "Test Period"
+
+#: functions/resources/integrations/settings.php:35
+#: functions/resources/integrations/settings.php:159
+msgid "Pix Gerado"
+msgstr "Generated Pix"
+
+#. Name of the plugin
+msgid "Pixel X App"
+msgstr "Pixel X App"
+
+#: functions/includes/04-settings.php:229
+msgid "Pixel X Remoto"
+msgstr "Pixel X Remote"
+
+#: functions/includes/05-dashboard.php:52
+msgid "Pixel Xpert - Tenha um consultor de otimização para suas campanhas"
+msgstr "Pixel Xpert - Get an optimization consultant for your campaigns"
+
+#: functions/resources/conversion/post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Conversão"
+msgstr "Conversion"
+
+#: functions/resources/event/post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Evento"
+msgstr "Event"
+
+#: functions/resources/lead/post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Lead"
+msgstr "Lead"
+
+#: functions/resources/conversion/post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Conversão"
+msgstr "Conversion"
+
+#: functions/resources/event/post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Evento"
+msgstr "Event"
+
+#: functions/resources/lead/post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Lead"
+msgstr "Lead"
+
+#: functions/includes/04-settings.php:150
+msgid "Preencher Campo com Telefone Validado?"
+msgstr "Fill in the field with a validated telephone number?"
+
+#: functions/trait/EventEnum.php:34
+msgid "Purchase - Compra"
+msgstr "Purchase - Purchase"
+
+#: functions/trait/Helpers.php:426 functions/resources/event/metabox.php:78
+#: functions/resources/event/post-type.php:75
+msgid "Página"
+msgstr "Page"
+
+#: functions/resources/event/post-type.php:110
+msgid "Página não identificado"
+msgstr "Unidentified page"
+
+#: functions/resources/conversion/metabox.php:19
+msgid "Páginas"
+msgstr "Pages"
+
+#: functions/trait/ConversionDisplayEnum.php:12
+msgid "Páginas específicas"
+msgstr "Specific pages"
+
+#: functions/includes/05-dashboard.php:36
+msgid "Recomendações:"
+msgstr "Recommendations:"
+
+#: functions/resources/conversion/post-type.php:116
+msgid "Recurso"
+msgstr "Resource"
+
+#: functions/includes/04-settings.php:216
+msgid "Recursos Remotos"
+msgstr "Remote Resources"
+
+#: functions/includes/03-routes.php:16 functions/includes/03-routes.php:151
+#: functions/includes/07-crons.php:43
+#: functions/resources/integrations/eduzz.php:19
+#: functions/resources/integrations/custom.php:19
+#: functions/resources/integrations/ticto.php:19
+#: functions/resources/integrations/blitzpay.php:19
+#: functions/resources/integrations/hotmart.php:21
+msgid "Requisição Não Autorizada"
+msgstr "Unauthorized Request"
+
+#: functions/resources/integrations/eduzz.php:82
+#: functions/resources/integrations/custom.php:99
+#: functions/resources/integrations/ticto.php:108
+#: functions/resources/integrations/blitzpay.php:86
+#: functions/resources/integrations/kiwify.php:104
+#: functions/resources/integrations/celetus.php:86
+#: functions/resources/integrations/hotmart.php:108
+msgid "Requisição Processada"
+msgstr "Request Processed"
+
+#: functions/includes/03-routes.php:114 functions/includes/03-routes.php:305
+#: functions/includes/07-crons.php:56
+msgid "Requisição Recebida!"
+msgstr "Request Received!"
+
+#: functions/resources/event/metabox.php:162
+msgid "Resposta da API de Conversão"
+msgstr "Conversion API Response"
+
+#: pixel-x-app.php:60
+msgid "Retornar"
+msgstr "Turn back"
+
+#: functions/resources/conversion/metabox.php:79
+msgid "Rolagem da Página"
+msgstr "Page Scrolling"
+
+#: functions/trait/TriggerEnum.php:24
+msgid "Rolagem de Página"
+msgstr "Page Scrolling"
+
+#: functions/resources/conversion/post-type.php:158
+#, php-format
+msgid "Rolar %s%% da Página"
+msgstr "Scroll %s%% of Page"
+
+#: functions/includes/04-settings.php:221
+msgid "Saiba mais sobre Execução Remota e siga os passos no"
+msgstr "Learn more about Remote Execution and follow the steps in"
+
+#: functions/trait/EventEnum.php:39
+msgid "Schedule - Fez uma Reserva ou Agendamento"
+msgstr "Schedule - Made a Reservation or Scheduled"
+
+#: functions/trait/Helpers.php:442 functions/resources/event/metabox.php:145
+msgid "sck"
+msgstr "sck"
+
+#: functions/includes/04-settings.php:85
+msgid "Scripts"
+msgstr "Scripts"
+
+#: functions/includes/04-settings.php:86
+msgid "Scripts no Cabeçalho"
+msgstr "Scripts in the Header"
+
+#: functions/includes/04-settings.php:89
+msgid "Scripts no Começo do Corpo"
+msgstr "Scripts at the Beginning of the Body"
+
+#: functions/includes/04-settings.php:92
+msgid "Scripts no Rodapé"
+msgstr "Scripts in the Footer"
+
+#: functions/includes/04-settings.php:93
+msgid ""
+"Se você precisar adicionar scripts ao rodapé, você deve inseri-los aqui. "
+"(&lt;/body&gt;)"
+msgstr ""
+"If you need to add scripts to the footer, you must insert them here. (</body>"
+")"
+
+#: functions/includes/04-settings.php:87
+msgid ""
+"Se você precisar adicionar scripts ao seu cabeçalho, você deve inseri-los "
+"aqui. (&lt;head&gt;)"
+msgstr ""
+"If you need to add scripts to your header, you must enter them here. (<head>)"
+
+#: functions/includes/04-settings.php:90
+msgid ""
+"Se você precisar adicionar scripts começo do corpo da página, você deve "
+"inseri-los aqui. (&lt;body&gt;)"
+msgstr ""
+"If you need to add scripts to the beginning of the page body, you must "
+"insert them here. (<body>)"
+
+#: functions/trait/EventEnum.php:38
+msgid "Search - Pesquisa no Site"
+msgstr "Search - Site Search"
+
+#: functions/includes/05-dashboard.php:19
+#, php-format
+msgid "Seja Bem Vindo ao %s!"
+msgstr "Welcome to %s!"
+
+#: functions/includes/04-settings.php:123
+#: functions/resources/conversion/metabox.php:158
+msgid ""
+"Separe os IDs das ofertas por \",\", caso tenha mais de uma oferta na página."
+msgstr ""
+"Separate the offer IDs by \",\" if you have more than one offer on the page."
+
+#: functions/trait/Helpers.php:441 functions/resources/event/metabox.php:141
+msgid "src"
+msgstr "src"
+
+#: functions/trait/EventEnum.php:32
+msgid "StartTrial - Iniciar período de avaliação"
+msgstr "StartTrial - Start trial period"
+
+#: functions/includes/04-license.php:25
+msgid "Status"
+msgstr "Status"
+
+#: functions/includes/02-menu-screen.php:32
+#, php-format
+msgid ""
+"Sua licença não está ativa, acesse o painel de <a href=\"%s\">"
+"Configurações</a> para ativar agora."
+msgstr ""
+
+#: functions/trait/EventEnum.php:37
+msgid "SubmitApplication - Enviou uma Solicitação ou Aplicação"
+msgstr "SubmitApplication - Submitted a Request or Application"
+
+#: functions/trait/EventEnum.php:33
+msgid "Subscribe - Assinou um Plano de Assinatura"
+msgstr "Subscribe - Subscribed to a Subscription Plan"
+
+#: functions/includes/02-menu-screen.php:54
+msgid "Suporte"
+msgstr "Support"
+
+#: functions/includes/04-settings.php:61 functions/includes/04-settings.php:81
+msgid "Tag de Verificação de Domínio"
+msgstr "Domain Verification Tag"
+
+#: functions/trait/Helpers.php:361 functions/resources/lead/metabox.php:23
+#: functions/resources/lead/post-type.php:75
+msgid "Telefone"
+msgstr "Telephone"
+
+#: functions/resources/conversion/metabox.php:39
+msgid "Tempo de Espera"
+msgstr "Waiting time"
+
+#: functions/trait/TriggerEnum.php:18
+msgid "Tempo de Visualização de Página"
+msgstr "Page View Time"
+
+#: functions/trait/TriggerEnum.php:19
+msgid "Tempo de Visualização de Video (Em Breve)"
+msgstr "Video Viewing Time (Coming Soon)"
+
+#: functions/resources/integrations/settings.php:15
+msgid "Ticto"
+msgstr "Ticto"
+
+#: functions/trait/ConversionDisplayEnum.php:11
+msgid "Todo o site"
+msgstr "The entire website"
+
+#: functions/includes/01-head-footer.php:39
+#, php-format
+msgid "Todos os Direitos Reservados - %s - Copyright © %s"
+msgstr "All Rights Reserved - %s - Copyright © %s"
+
+#: functions/includes/04-settings.php:205
+msgid ""
+"Todos os parâmetros que estiverem na URL, serão repassados para todos os "
+"botões com links da página."
+msgstr ""
+"All parameters in the URL will be passed to all buttons with links on the "
+"page."
+
+#: functions/includes/04-settings.php:33
+msgid "Token de Conversão"
+msgstr "Conversion Token"
+
+#: functions/resources/integrations/settings.php:23
+#: functions/resources/integrations/settings.php:49
+#: functions/resources/integrations/settings.php:100
+#: functions/resources/integrations/settings.php:147
+#: functions/resources/integrations/settings.php:179
+msgid "Token Webhook"
+msgstr "Token Webhook"
+
+#: functions/includes/02-menu-screen.php:47
+msgid "Tutoriais"
+msgstr "Tutorials"
+
+#: functions/includes/04-settings.php:223
+msgid "Tutorial de Execução Remoto."
+msgstr "Remote Execution Tutorial."
+
+#: functions/trait/Helpers.php:424 functions/resources/event/metabox.php:70
+msgid "Título da Página"
+msgstr "Page Title"
+
+#: functions/includes/04-settings.php:218
+msgid "URL de Execução Remoto"
+msgstr "Remote Execution URL"
+
+#: functions/resources/integrations/settings.php:16
+#: functions/resources/integrations/settings.php:42
+#: functions/resources/integrations/settings.php:68
+#: functions/resources/integrations/settings.php:93
+#: functions/resources/integrations/settings.php:140
+#: functions/resources/integrations/settings.php:172
+msgid "URL de Webhook"
+msgstr "Webhook URL"
+
+#: functions/trait/Helpers.php:433 functions/resources/event/metabox.php:108
+msgid "URL do Evento"
+msgstr "Event URL"
+
+#: functions/trait/Helpers.php:437 functions/resources/event/metabox.php:125
+msgid "utm_campaign"
+msgstr "utm_campaign"
+
+#: functions/trait/Helpers.php:440 functions/resources/event/metabox.php:137
+msgid "utm_content"
+msgstr "utm_content"
+
+#: functions/trait/Helpers.php:438 functions/resources/event/metabox.php:129
+msgid "utm_id"
+msgstr "utm_id"
+
+#: functions/trait/Helpers.php:436 functions/resources/event/metabox.php:121
+msgid "utm_medium"
+msgstr "utm_medium"
+
+#: functions/trait/Helpers.php:435 functions/resources/event/metabox.php:117
+msgid "utm_source"
+msgstr "utm_source"
+
+#: functions/trait/Helpers.php:439 functions/resources/event/metabox.php:133
+msgid "utm_term"
+msgstr "utm_term"
+
+#: functions/includes/04-settings.php:133
+msgid "Validar Telefone antes de Enviar Evento?"
+msgstr "Validate Phone Number before Sending Event?"
+
+#: functions/includes/04-settings.php:115 functions/trait/Helpers.php:422
+#: functions/resources/conversion/metabox.php:162
+#: functions/resources/event/metabox.php:62
+msgid "Valor do Produto"
+msgstr "Product Value"
+
+#: functions/includes/04-settings.php:104
+msgid "Valores Globais"
+msgstr "Global Values"
+
+#: functions/resources/conversion/post-type.php:15
+msgid "Ver Conversão"
+msgstr "View Conversion"
+
+#: functions/resources/conversion/post-type.php:16
+msgid "Ver Conversões"
+msgstr "See Conversions"
+
+#: functions/resources/event/post-type.php:15
+msgid "Ver Evento"
+msgstr "View Event"
+
+#: functions/resources/event/post-type.php:16
+msgid "Ver Eventos"
+msgstr "View Events"
+
+#: functions/resources/lead/post-type.php:15
+msgid "Ver Lead"
+msgstr "View Lead"
+
+#: functions/resources/lead/post-type.php:16
+msgid "Ver Leads"
+msgstr "View Leads"
+
+#: functions/includes/00-install.php:82
+msgid "Verificar Atualização"
+msgstr "Check Update"
+
+#: functions/includes/01-head-footer.php:45
+#, php-format
+msgid "Versão %s"
+msgstr "Version %s"
+
+#: functions/trait/EventEnum.php:27
+msgid "ViewContent - Visualizar Conteúdo"
+msgstr "ViewContent - View Content"
+
+#: functions/trait/TriggerEnum.php:22
+msgid "Visualização de Elemento"
+msgstr "Element View"
+
+#: functions/trait/TriggerEnum.php:17
+msgid "Visualização de Página"
+msgstr "Page View"
+
+#: functions/includes/01-head-footer.php:116
+msgid ""
+"Você ainda não configurou seu Pixel do Facebook. Pronto para configurar?"
+msgstr "You haven't set up your Facebook Pixel yet. Ready to configure?"
+
+#: functions/resources/integrations/blitzpay.php:43
+#: functions/resources/integrations/celetus.php:43
+msgid "Webhook - BlitzPay"
+msgstr "Webhook - BlitzPay"
+
+#: functions/resources/integrations/eduzz.php:40
+msgid "Webhook - Eduzz"
+msgstr "Webhook - Eduzz"
+
+#: functions/resources/integrations/hotmart.php:65
+msgid "Webhook - Hotmart"
+msgstr "Webhook - Hotmart"
+
+#: functions/resources/integrations/kiwify.php:62
+msgid "Webhook - Kiwify"
+msgstr "Webhook - Kiwify"
+
+#: functions/resources/integrations/custom.php:54
+msgid "Webhook - Pixel X App"
+msgstr "Webhook - Pixel X App"
+
+#: functions/resources/integrations/ticto.php:67
+msgid "Webhook - Ticto"
+msgstr "Webhook - Ticto"

@@ -1,0 +1,649 @@
+/* 
+ * WordPress
+ */
+.pixel-x-app-body {
+	background: #F4F6FC;
+}
+
+@media screen and (max-width: 600px) {
+	.pixel-x-app-body #wpbody {
+		padding-top: 0 !important;
+	}
+
+	.pixel-x-app-body .tablenav.top,
+	.pixel-x-app-body #screen-meta-links {
+		display: none;
+	}
+	
+	
+	.cf-radio__input[type=checkbox]:checked:before {
+		width: 80% !important;
+		height: 80% !important;
+		margin: 10% !important;
+	}
+}
+
+.pixel-x-app-body .toplevel_page_pxa_dashboard {
+	background: linear-gradient(45deg, #001E4F 40%, #0040BF 90%) !important;
+}
+
+
+/* 
+ * Button
+ */
+.pxa-btn-primary {
+	border-color: #001E4F !important;
+	background: #001E4F !important;
+	background: linear-gradient(45deg, #001E4F 40%, #0040BF 90%) !important;
+	color: #FFFFFF !important;
+}
+
+.pxa-btn-secondary {
+	border-color: #994600 !important;
+	background: #E56900 !important;
+	background: linear-gradient(45deg, #E56900 70%, #994600 100%) !important;
+	color: #FFFFFF !important;
+}
+
+.pxa-btn-big {
+	padding: 6px 26px !important;
+}
+
+/* .pixel-x-app-body #wpcontent {
+	padding-left: 16px !important;
+} */
+
+/* 
+ * Margin and Padding
+ */
+.pxa-text-xs,
+.pxa-text-sm,
+.pxa-text-base,
+.pxa-text-lg,
+.pxa-text-xl,
+.pxa-text-2xl {
+	margin: 0 0 8px;
+}
+
+.pxa-m0 {
+	margin: 0 !important;
+}
+
+.pxa-mx-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pxa-m1 {
+	margin: 8px !important;
+}
+
+.pxa-m2 {
+	margin: 16px !important;
+}
+
+.pxa-mt0 {
+	margin-top: 0 !important;
+}
+
+.pxa-mt1 {
+	margin-top: 8px !important;
+}
+
+.pxa-mt2 {
+	margin-top: 16px !important;
+}
+
+.pxa-mb0 {
+	margin-bottom: 0 !important;
+}
+
+.pxa-mb1 {
+	margin-bottom: 8px !important;
+}
+
+.pxa-mb2 {
+	margin-bottom: 16px !important;
+}
+
+.pxa-ml0 {
+	margin-left: 0 !important;
+}
+
+.pxa-ml1 {
+	margin-left: 8px !important;
+}
+
+.pxa-ml2 {
+	margin-left: 16px !important;
+}
+
+.pxa-mr0 {
+	margin-right: 0 !important;
+}
+
+.pxa-mr1 {
+	margin-right: 8px !important;
+}
+
+.pxa-mr2 {
+	margin-right: 16px !important;
+}
+
+
+.pxa-p0 {
+	padding: 0;
+}
+
+.pxa-p1 {
+	padding: 8px;
+}
+
+.pxa-p2 {
+	padding: 16px;
+}
+
+.pxa-pt0 {
+	padding-top: 0;
+}
+
+.pxa-pt1 {
+	padding-top: 8px;
+}
+
+.pxa-pt2 {
+	padding-top: 16px;
+}
+
+.pxa-pb0 {
+	padding-bottom: 0;
+}
+
+.pxa-pb1 {
+	padding-bottom: 8px;
+}
+
+.pxa-pb2 {
+	padding-bottom: 16px;
+}
+
+.pxa-pl0 {
+	padding-left: 0;
+}
+
+.pxa-pl1 {
+	padding-left: 8px;
+}
+
+.pxa-pl2 {
+	padding-left: 16px;
+}
+
+.pxa-pr0 {
+	padding-right: 0;
+}
+
+.pxa-pr1 {
+	padding-right: 8px;
+}
+
+.pxa-pr2 {
+	padding-right: 16px;
+}
+
+.pxa-bt {
+	border-top: 1px #ccc solid;
+}
+
+.pxa-br {
+	border-right: 1px #ccc solid;
+}
+
+.pxa-bb {
+	border-bottom: 1px #ccc solid;
+}
+
+.pxa-bl {
+	border-left: 1px #ccc solid;
+}
+
+/* 
+ * Typograph
+ */
+.pxa-text-xs {
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.pxa-text-sm {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.pxa-text-base {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.pxa-text-lg {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.pxa-text-xl {
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.pxa-text-2xl {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.pxa-small-caps {
+	font-variant: small-caps;
+}
+
+.pxa-vertical-top {
+	vertical-align: top
+}
+
+.pxa-vertical-middle {
+	vertical-align: middle
+}
+
+/* 
+ * Grid
+ */
+.pxa-row {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-gap: 16px;
+	grid-row-gap: 16px;
+}
+
+.pxa-col-1 {
+	grid-column: span 1;
+}
+
+.pxa-col-2 {
+	grid-column: span 2;
+}
+
+.pxa-col-3 {
+	grid-column: span 3;
+}
+
+.pxa-col-4 {
+	grid-column: span 4;
+}
+
+.pxa-col-5 {
+	grid-column: span 5;
+}
+
+.pxa-col-6 {
+	grid-column: span 6;
+}
+
+.pxa-col-7 {
+	grid-column: span 7;
+}
+
+.pxa-col-8 {
+	grid-column: span 8;
+}
+
+.pxa-col-9 {
+	grid-column: span 9;
+}
+
+.pxa-col-10 {
+	grid-column: span 10;
+}
+
+.pxa-col-11 {
+	grid-column: span 11;
+}
+
+.pxa-col-12 {
+	grid-column: span 12;
+}
+
+@media (max-width: 767px) {
+	.pxa-col-xs-12 {
+		grid-column: span 12;
+	}
+
+	.pxa-xs-d-none {
+		display: none;
+	}
+}
+
+@media (max-width: 600px) {
+	.pxa-header-wrap {
+		padding-top: 46px !important;
+	}
+}
+
+/* 
+ * Header
+ */
+.pxa-header-wrap {
+	padding: 0px;
+	margin: 0 0 0 -20px;
+	box-sizing: border-box;
+}
+
+.pxa-header-container .notice-dismiss {
+	text-decoration: none;
+}
+
+.pxa-header-container {
+	padding: 8px 16px;
+	border: 0;
+	border-top: 4px solid #0040BF !important;
+	border-bottom: 1px solid #cccccc;
+	border-radius: 0 !important;
+	overflow: hidden;
+	background: #FFFFFF;
+	box-sizing: border-box;
+}
+
+.pxa-header-info {
+	border-top: 4px solid #0696DA !important;
+}
+
+.pxa-header-danger {
+	border-top: 4px solid #e74c3c !important;
+}
+
+.pxa-header-success {
+	border-top: 4px solid #2ecc71 !important;
+}
+
+.pxa-header-warning {
+	border-top: 4px solid #f1c40f !important;
+}
+
+.pxa-justify-around {
+	justify-content: space-around;
+}
+
+.pxa-justify-center {
+	justify-content: center;
+}
+
+.pxa-header-right.space-between {
+	justify-content: space-between !important;
+}
+
+.pxa-align-center {
+	align-items: center;
+}
+
+.pxa-flex {
+	display: flex;
+}
+
+.pxa-inline-block {
+	display: inline-block;
+}
+
+.pxa-flex-center {
+	display: flex;
+	align-items: center;
+}
+
+.pxa-header-logo {
+	max-height: 50px;
+	max-width: 100%;
+	/* padding-right: 20px; */
+}
+
+.pxa-header-subtitle {
+	font-size: 14px;
+	color: #333333;
+	font-weight: normal;
+	margin: 0;
+	vertical-align: middle;
+	line-height: 1.6;
+}
+
+.pxa-header-subtitle h3 {
+	margin: 0;
+	font-size: 1.5em;
+	font-weight: 300;
+}
+
+#adminmenu .wp-menu-image img {
+	padding: 7px 0 !important;
+	height: 20px !important;
+	box-sizing: content-box !important;
+}
+
+/* .pixel-x-app-body .row-title {
+	font-family: monospace;
+} */
+
+.pixel-x-app-body .column-title {
+	width: 330px;
+}
+
+.pixel-x-app-body .column-event_time,
+.pixel-x-app-body .column-last_access {
+	width: 175px;
+}
+
+.pixel-x-app-body .column-events, .pixel-x-app-body .column-stats_access {
+	width: 100px;
+	text-align: center;
+}
+
+.pixel-x-app-body .column-last_ip,
+.pixel-x-app-body .column-link {
+	width: 300px;
+}
+
+.pixel-x-app-body .column-last_access {
+	width: 250px;
+}
+
+.pixel-x-app-body .column-target,
+.pixel-x-app-body .column-event {
+	width: 200px;
+}
+
+.pixel-x-app-body .column-link input,
+.pixel-x-app-body .column-url input,
+.pixel-x-app-body .column-target input {
+	text-overflow: ellipsis;
+}
+
+.pre-dark {
+	padding: .375rem .75rem !important;
+	background-color: #12263f !important;
+	border-radius: .375rem !important;
+	font-size: 12px !important;
+	color: #fff !important;
+	font-family: 'Fira Code', 'Source Code Pro', monospace !important;
+	display: block;
+	text-align: center;
+}
+
+.pre-dark.clipboard {
+	text-align: left;
+	white-space: nowrap !important;
+	overflow: hidden !important;
+	text-overflow: ellipsis !important;
+	display: block !important;
+}
+
+.pre-dark.clipboard:before {
+	font-family: dashicons;
+	content: "\f105";
+	vertical-align: top;
+	padding-right: .375rem;
+}
+
+
+.pxa-card {
+	background: #fff !important;
+	border: 1px solid #cfd6e4 !important;
+	border-radius: 4px !important;
+	box-sizing: border-box;
+}
+
+.pxa-card,
+.pxa-card-boby {
+	padding: 16px;
+	min-width: 100%;
+	margin-top: 0;
+}
+
+.pxa-card p,
+.pxa-list-step {
+	margin-bottom: 0;
+	font-size: 14px;
+}
+
+.pxa-card-title {
+	font-size: 24px;
+	margin: 0 0 8px;
+	font-weight: 500;
+}
+
+.pxa-card-subtitle {
+	font-size: 16px;
+	color: #4a5568;
+}
+
+.pxa-bold {
+	font-weight: bold;
+}
+
+.pxa-list-step {
+	list-style: decimal-leading-zero;
+	list-style-position: inside;
+}
+
+.pxa-list-step li {
+	font-size: 0.875rem;
+}
+
+.pxa-badge {
+	vertical-align: middle !important;
+	display: inline-block !important;
+	padding: .33em .5em !important;
+	font-weight: 400 !important;
+	line-height: 1 !important;
+	text-align: center !important;
+	white-space: nowrap !important;
+	border-radius: .375rem !important;
+	color: #fff !important;
+	background-color: #1D75C0 !important;
+}
+
+.pxa-float-right {
+	float: right !important;
+	margin-left: 5px !important;
+}
+
+.pxa-list-itens {
+	padding-left: 0;
+	margin-bottom: 0;
+}
+
+.pxa-list-itens .pxa-list-item {
+	padding: 8px 16px;
+	border-top: 1px solid #e3ebf6;
+	margin: 0 -16px;
+	font-size: 14px;
+}
+
+.pxa-list-itens:last-child .pxa-list-item:last-child {
+	border-bottom-width: 0;
+	padding-bottom: 0;
+	margin-bottom: -8px;
+}
+
+.pxa-list-itens .pxa-list-item a {
+	color: #0696DA;
+	transition: all 0.25s ease;
+}
+
+.pxa-list-itens .pxa-list-item a:hover {
+	color: #1D75C0;
+}
+
+.plyr {
+	border-radius: 4px;
+}
+
+.pxa-card .close {
+	position: absolute;
+	top: .5rem;
+	right: .5rem;
+	z-index: 10;
+	display: block;
+	padding: .25rem .5rem;
+	color: #818a91;
+	cursor: pointer;
+	background-color: transparent;
+	border: 0;
+	border-radius: .25rem;
+	text-decoration: none;
+	line-height: 1;
+	font-size: 14px;
+}
+
+.pxa-card .close:before {
+	font-family: Dashicons;
+	content: "\f158";
+	font-size: 14px;
+	vertical-align: bottom;
+	margin-right: 5px;
+}
+
+.pxa-card .close:hover {
+	color: #fff;
+	background-color: #1D75C0;
+}
+
+.pxa-divider {
+	margin: 16px -16px;
+}
+
+/* Carbon Fields */
+.pixel-x-app-body .cf-separator h3 {
+	margin: 0;
+}
+
+.pixel-x-app-body .show-label .cf-field__label {
+	display: block;
+}
+
+/* Plyr */
+:root {
+	--plyr-color-main: #001E4F;
+}
+
+/* Tailwind CSS */
+.pxa-stats-badge {
+	border-radius: 4px;
+	background: #001E4F !important;
+	background: linear-gradient(45deg, #001E4F 40%, #0040BF 90%) !important;
+	padding: 8px;
+	color: #ffffff;
+}
+
+.pxa-stats-icon {
+	font-size: 32px;
+	height: 32px;
+	width: 32px;
+}
+
+/* Tabulator */
+.pixel-x-app-body .pxa-card .tabulator {
+	margin: 8px -16px -8px !important;
+}
